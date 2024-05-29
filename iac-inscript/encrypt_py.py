@@ -16,7 +16,7 @@ from typing import Union, List
 
 from Cython.Build import cythonize
 
-from jmpy.log import logger
+from iac-inscript.log import logger
 
 
 def get_package_dir(*args, **kwargs):
