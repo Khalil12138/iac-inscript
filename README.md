@@ -10,10 +10,10 @@ Git仓库地址: https://github.com/Boris-code/jmpy.git
 
 ## 安装
 
-    pip install jmpy3
+    pip install iac-inscript
 
 ## 使用方法
 
-    jmpy -i "xxx project dir" [-o output dir]
+    iac-inscript -i "xxx project dir" [-o output dir]
 
 加密后的文件默认存储在 dist/project_name/ 下
