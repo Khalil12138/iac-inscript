@@ -33,7 +33,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     install_requires=["Cython==3.0.10"],
     entry_points={"console_scripts": ["iac-inscript = jmpy.cmdline:execute"]},
-    url="https://github.com/Boris-code/jmpy.git",
+    url="https://github.com/Khalil12138/iac-inscript.git",
     packages=packages,
     include_package_data=True,
     classifiers=["Programming Language :: Python :: 3"],
